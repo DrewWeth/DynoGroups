@@ -1,0 +1,33 @@
+Basic Functions
+---------------
+create a group
+find local groups via geolocation
+delete a group
+login system
+create an event for your group
+push notifications to group members (Android, iPhone, text)
+Group message board (like reddit or GroupMe)
+Join groups
+Leave groups
+Upload group picture
+
+
+Unique Features (important that make system unique)
+---------------------------------------------------
+an importantcy rating on events (be honest)
+an overall club understanding rating "Do you know what's going on? yes or no" when admin posts on message board then it resets rating
+swipe pushed notifications to quickly respond ("im going" or "im not going")
+During an event have an app will ask "do you want to check in?"
+
+
+Names
+-----
+Organizify
+GroupUp
+Dynamic (Dyno)
+
+
+Mascots
+-------
+Green Dynosaur
+Blue Kangaroo
